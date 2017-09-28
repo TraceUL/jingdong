@@ -1,0 +1,22 @@
+Strict-Transport-Security: max-age=86400
+Content-Type: application/json;charset=UTF-8
+Date: Wed, 27 Sep 2017 02:30:04 GMT
+Pragma: no-cache
+Server: jfe
+Set-Cookie: JAMCookie=true
+Set-Cookie: USER_FLAG_CHECK=""; Domain=.360buy.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: USER_FLAG_CHECK=""; Domain=.jd.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: abtest=""; Domain=.360buy.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: abtest=""; Domain=.jd.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: abtest=20170927103004390_64; Domain=.m.360buy.com; Expires=Fri, 27-Sep-2019 02:30:04 GMT; Path=/
+Set-Cookie: abtest=20170927103004390_64; Domain=.m.jd.com; Expires=Fri, 27-Sep-2019 02:30:04 GMT; Path=/
+Set-Cookie: mobilev=html5; Domain=.360buy.com; Expires=Fri, 27-Oct-2017 02:30:04 GMT; Path=/
+Set-Cookie: mobilev=html5; Domain=.jd.com; Expires=Fri, 27-Oct-2017 02:30:04 GMT; Path=/
+Set-Cookie: USER_FLAG_CHECK=""; Domain=.360buy.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: USER_FLAG_CHECK=""; Domain=.jd.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: USER_FLAG_CHECK=150b24e624f8f0257e2aeb7b131581f5; Domain=.m.360buy.com; Expires=Fri, 27-Oct-2017 02:30:04 GMT; Path=/
+Set-Cookie: USER_FLAG_CHECK=150b24e624f8f0257e2aeb7b131581f5; Domain=.m.jd.com; Expires=Fri, 27-Oct-2017 02:30:04 GMT; Path=/
+Set-Cookie: sid=21a878d0b717c2d541b4afcbed399cf7; Domain=.360buy.com; Expires=Fri, 27-Oct-2017 02:30:04 GMT; Path=/
+Set-Cookie: sid=21a878d0b717c2d541b4afcbed399cf7; Domain=.jd.com; Expires=Fri, 27-Oct-2017 02:30:04 GMT; Path=/
+Cache-Control: max-age=0
+Expires: Wed, 27 Sep 2017 02:30:04 GMT
